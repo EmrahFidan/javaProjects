@@ -1,4 +1,6 @@
-[![Java Version](https://img.shields.io/badge/Java-20.0.2-lightblue)](https://www.java.com)![Java](https://img.shields.io/badge/Language-Java-yellow.svg)<a class="header-badge" target="_blank" href="https://www.linkedin.com/in/emrah-fidann/">
+[![Java Version](https://img.shields.io/badge/Java-20.0.2-lightblue)](https://www.java.com)![Java](https://img.shields.io/badge/Language-Java-yellow.svg)
+[![Developed with Eclipse](https://img.shields.io/badge/Developed%20with-Eclipse-orange)](https://www.eclipse.org/)
+<a class="header-badge" target="_blank" href="https://www.linkedin.com/in/emrah-fidann/">
   <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
   </a>
 
