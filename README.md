@@ -1,12 +1,30 @@
-[![Java Version](https://img.shields.io/badge/Java-20.0.2-lightblue)](https://www.java.com)![Java](https://img.shields.io/badge/Language-Java-yellow.svg)
-[![Developed with Eclipse](https://img.shields.io/badge/Developed%20with-Eclipse-orange)](https://www.eclipse.org/)
-<a class="header-badge" target="_blank" href="https://www.linkedin.com/in/emrah-fidann/">
-  <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
+
+<h1 align="center">
+<br>
+🔬 Java LC
+</h1>
+
+<h3 align="center">
+  <a class="header-badge" target="_blank" href="https://github.com/EmrahFidan">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-white.svg?logo=github&style=social"/>
   </a>
-
-
-
-<h1 style="color: #ff9f1c;"> 🔬 Java LC </h1>
+  <a href="https://www.java.com" target="_blank">
+  <img alt="Java Version 20.0.2" src="https://img.shields.io/badge/Java-20.0.2-darkgreen"/>
+</a>
+<a href="https://img.shields.io/badge/Language-Java-yellow.svg" target="_blank">
+  <img alt="Java" src="https://img.shields.io/badge/Language-Java-yellow.svg"/>
+</a>
+<a href="https://www.eclipse.org/" target="_blank">
+  <img alt="Developed with Eclipse" src="https://img.shields.io/badge/Developed%20with-Eclipse-orange"/>
+</a>
+  <a class="header-badge" target="_blank" href="https://github.com/EmrahFidan/javaProjects/blob/main/LICENSE">
+    <img alt="License" src="https://img.shields.io/github/license/PritamSarbajna/tourism-website?color=darkblue"/>
+  </a>
+  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/emrah-fidann/" >
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue.svg?logo=linkedin&style=social"/>
+  </a>
+</h3>
+<br>
 
 This project is the project folder I use to learn Java syntax, with basic and intermediate project examples. 
 
