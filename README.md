@@ -11,9 +11,6 @@
   <a href="https://www.java.com" target="_blank">
   <img alt="Java Version 20.0.2" src="https://img.shields.io/badge/Java-20.0.2-darkgreen"/>
 </a>
-<a href="https://img.shields.io/badge/Language-Java-yellow.svg" target="_blank">
-  <img alt="Java" src="https://img.shields.io/badge/Language-Java-yellow.svg"/>
-</a>
 <a href="https://www.eclipse.org/" target="_blank">
   <img alt="Developed with Eclipse" src="https://img.shields.io/badge/Developed%20with-Eclipse-orange"/>
 </a>
@@ -28,14 +25,14 @@
 
 This project is the project folder I use to learn Java syntax, with basic and intermediate project examples. 
 
-It also includes my LAB assignments for my lessons and my user input project to improve my object-based proegamation knowledge.
+It also contains my LAB assignments for my classes and my user input project to improve my object-based programming skills.
 
-<h2 style="color: #fee440;"> Features </h2>
+<h2 > Features </h2>
 
 - Java 
 - OOP
-- Data Structures -> Tree + Linked List
-- Clean Code
+- Data structures -> tree + linked list
+- Clean code
 - LC -> Lecture Code 
 
 <h2 style="color: #fee440;"> Adds </h2>
@@ -63,10 +60,6 @@ I used Ellipse as compiler setup and file management was very difficult, and the
 
 
 I started to apply the clena code principles to my codes where I wrote with topics such as encapsulation, polymorphism, spaghetti code, if abuse.
-
-<h2 style="color: #fee440;"> Thanks </h2>
-
-[@EmrahFidan](https://github.com/EmrahFidan) for developer. 
 
 
 <h2 style="color: #fee440;"> Feedback </h2>
